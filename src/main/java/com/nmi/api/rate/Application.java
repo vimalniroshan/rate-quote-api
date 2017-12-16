@@ -14,7 +14,7 @@ import javax.ws.rs.ApplicationPath;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-@ApplicationPath("api/v1")
+//@ApplicationPath("api/v1")
 public class Application extends ResourceConfig {
 
     private static final Logger log = Logger.getLogger(Application.class.getName());
