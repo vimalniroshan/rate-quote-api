@@ -1,0 +1,74 @@
+{
+  "coveragePercent": 0.35,
+  "premiumPlan": "SINGLE",
+  "renewalOption": "CONSTANT",
+  "paidBy": "LENDER",
+  "refundType": "NON_REFUNDABLE",
+  "occupancyType": "PRIMARY_RESIDENCE",
+  "loanType": "FIXED",
+  "amortizationTerm": 200,
+  "constructionToPerm": true,
+  "temporaryBuyDownIdentifier": false,
+  "relocationLoanInd": true,
+  "loanLevelCreditScore": 813,
+  "debtToIncomeRatio": 0.45,
+  "ltv": 0.9,
+  "baseLoanAmount": 317000,
+  "loanPurpose": "PURCHASE",
+  "propertyType": "MANUFACTURED_HOUSING",
+  "financedNoOfUnits": 2,
+  "propertyState": "CA",
+  "propertyZipCode": 94806,
+  "propertyStreet": "6400 Christie Ave",
+  "propertyCity": "Emeryville",
+  "borrowers": [
+    {
+      "creditScores": [
+        {
+          "nonTraditionalCreditIndicator": false,
+          "creditScore": 780
+        },
+        {
+          "nonTraditionalCreditIndicator": false,
+          "creditScore": 891
+        }
+      ]
+    }
+  ]
+}
+
+
+{
+  "coveragePercent": 0.35,
+  "occupancyType": "PRIMARY_RESIDENCE",
+  "loanType": "FIXED",
+  "amortizationTerm": 200,
+  "constructionToPerm": true,
+  "temporaryBuyDownIdentifier": false,
+  "relocationLoanInd": true,
+  "loanLevelCreditScore": 813,
+  "debtToIncomeRatio": 0.45,
+  "ltv": 0.9,
+  "baseLoanAmount": 317000,
+  "loanPurpose": "PURCHASE",
+  "propertyType": "MANUFACTURED_HOUSING",
+  "financedNoOfUnits": 2,
+  "propertyState": "CA",
+  "propertyZipCode": 94806,
+  "propertyStreet": "6400 Christie Ave",
+  "propertyCity": "Emeryville",
+  "borrowers": [
+    {
+      "creditScores": [
+        {
+          "nonTraditionalCreditIndicator": false,
+          "creditScore": 780
+        },
+        {
+          "nonTraditionalCreditIndicator": false,
+          "creditScore": 891
+        }
+      ]
+    }
+  ]
+}
