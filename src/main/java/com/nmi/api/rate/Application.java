@@ -19,7 +19,7 @@ public class Application extends ResourceConfig {
 
     private static final Logger log = Logger.getLogger(Application.class.getName());
 
-    private static final String SYSTEM_PROPERTIES_FILE = System.getProperty("system.properties.file", "system.properties");
+    /*private static final String SYSTEM_PROPERTIES_FILE = System.getProperty("system.properties.file", "system.properties");
 
     static {
         try {
@@ -27,7 +27,7 @@ public class Application extends ResourceConfig {
         } catch (Exception e) {
             log.log(Level.WARNING, "Unable to load system properties file with name '%s'", SYSTEM_PROPERTIES_FILE);
         }
-    }
+    }*/
 
     public Application() {
         packages("com.nmi.api.rate")
