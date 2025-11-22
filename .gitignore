@@ -2,3 +2,4 @@
 target
 rate-quote-api.iml
 Procfile
+.DS_Store
